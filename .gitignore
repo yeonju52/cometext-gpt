@@ -160,6 +160,3 @@ cython_debug/
 #.idea/
 */.DS_Store
 .DS_Store
-demo/1_dataloader.ipynb
-demo/2_get_embedding.ipynb
-demo/3_prompt.ipynb
