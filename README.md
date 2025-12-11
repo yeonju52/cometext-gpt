@@ -1,3 +1,12 @@
+# cometext
+ChatGPT 기반 문장맥락 이해형 유사 도서 추천, 검색 AI-NLP 플랫폼 (한이음 ICT멘토링, 2023.04.17 ~ 2023.11.15)
+
+<div align="center">
+
+[![Demo Video](https://img.youtube.com/vi/GibXbEuSnAU/0.jpg)](https://www.youtube.com/watch?v=GibXbEuSnAU)
+
+</div>
+
 # cometext-gpt
 GPT 기반 문장맥락 이해형 유사 도서 추천 및 검색 알고리즘
 
