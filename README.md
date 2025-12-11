@@ -3,6 +3,8 @@ ChatGPT 기반 문장맥락 이해형 유사 도서 추천, 검색 AI-NLP 플랫
 
 <div align="center">
 
+<p><sub>이미지를 클릭하면 YouTube로 이동합니다.</sub></p>
+
 [![Demo Video](https://img.youtube.com/vi/GibXbEuSnAU/0.jpg)](https://www.youtube.com/watch?v=GibXbEuSnAU)
 
 </div>
